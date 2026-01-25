@@ -4,3 +4,4 @@ x=7
 print(x)
 x=9
 print(x)
+print(67)
